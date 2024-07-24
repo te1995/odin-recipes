@@ -1,0 +1,1 @@
+In this project the aim is to learn how html works, especially boilerplate, anchor tags, paragrafs, the strong keyword, em keyword, pictures and lists.
