@@ -1,0 +1,59 @@
+* {
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    margin: 10px;
+    font-family: "Times New Roman", serif;
+    font-size: 22px;
+}
+
+.initials {
+    color: rgb(0, 8, 255);
+}
+
+.WhatsApp {
+    background-color: green;
+}
+
+.Facebook {
+    background-color: blue;
+}
+
+.Instagram {
+    background-color: brown;
+}
+
+.overall {
+    display: block;
+    width: 100%;
+    margin: 0px;
+
+}
+
+
+.picl, .share-buttons {
+    display: inline-block;
+    vertical-align: top; /* This aligns them at the top with each other */
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.overall.share-buttons * {
+    display: inline-block; /* Make buttons line up horizontally */
+    margin-right: 1px; /* Optional: Adds space between buttons */
+}
+
+.final {
+    padding: 10px;
+    margin: 5px;
+    background-color: beige;
+}
+
+h3 {
+    padding: 10px;
+}
+
+.table {
+    text-align: center;
+}
